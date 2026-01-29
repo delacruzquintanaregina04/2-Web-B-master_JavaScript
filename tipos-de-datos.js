@@ -52,3 +52,30 @@ let id= Symbol("id");
 console.log("Tipo de dato Symbol:");
 console.log(id);
 console.log(typeof id);
+
+let Number = 42;
+console.log("Tipo de dato Number:");
+console.log(Number);
+console.log(typeof Number);
+
+let texto = "Veinticico";
+console.log("Tipo de dato String:");
+console.log(texto);
+console.log(typeof texto);
+
+let Numbe = -666;
+console.log("Tipo de dato Number:");
+console.log(Numbe);
+console.log(typeof Numbe);
+
+let esAdulto = true;
+console.log("Tipo de dato Boolean:");
+console.log(esAdulto);
+console.log(typeof esAdulto);
+
+let cero = 0;
+console.log("Tipo de dato Number:");
+console.log(cero);
+console.log(typeof cero);
+
+
