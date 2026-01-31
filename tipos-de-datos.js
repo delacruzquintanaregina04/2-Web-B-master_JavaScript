@@ -78,4 +78,4 @@ console.log("Tipo de dato Number:");
 console.log(cero);
 console.log(typeof cero);
 
-
+console.log(0===false); //comparacion estricta
